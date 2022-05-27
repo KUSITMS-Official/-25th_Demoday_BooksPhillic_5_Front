@@ -1,0 +1,35 @@
+{
+
+        "code": 1000,
+        "message": "성공하였습니다.",
+        "data": [
+          {
+            "postId": 3,
+            "storeImgUrl": "프로필 이미지3",  
+            "title": "제목3",
+            "content": "내용3",
+            "district": "GANGNAM",         
+            "editorName": "루루",            
+                    "category": "INTERVIEW"
+          },
+          {
+            "postId": 2,
+            "storeImgUrl": "프로필 이미지2",
+            "title": "제목2",
+            "content": "내용2",
+            "district": "MAPO",
+            "editorName": "에디",
+                    "category": "BOOKSTORE"
+          },
+          {
+            "postId": 1,
+            "storeImgUrl": "프로필 이미지1",
+            "title": "제목",
+            "content": "내용",
+            "district": "YONGSAN",
+            "editorName": "에디",
+                    "category": "EVENT"
+          }
+      ]
+
+}
